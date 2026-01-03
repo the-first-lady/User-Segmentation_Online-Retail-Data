@@ -1,4 +1,4 @@
-# User Segmentation_Online Retail Data
+# Customer Segmentation_Online Retail Data
 
 ## Proyek Deskripsi
 Proyek ini bertujuan untuk melakukan segmentasi pengguna menggunakan data retail online. Dengan menggunakan teknik RFM (Recency, Frequency, Monetary) dan analisis data, kami mengidentifikasi berbagai segmen pelanggan untuk membantu dalam meningkatkan retensi pelanggan dan strategi pemasaran.
