@@ -1,6 +1,3 @@
-# User-Segmentation_Online-Retail-Data
-
-```markdown
 # 📊 User Segmentation: Online Retail Data Analysis
 
 An in-depth analysis of online retail data using RFM techniques to identify distinct customer segments for enhanced marketing and retention strategies.
@@ -110,4 +107,3 @@ We welcome contributions to enhance this project! Please follow these guidelines
 This project currently has **No License** specified. This means all rights are reserved by the copyright holder, `the-first-lady`, and you may not reproduce, distribute, or create derivative works from this project without explicit permission.
 
 © 2023 the-first-lady. All rights reserved.
-```
